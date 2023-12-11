@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HP9TGVAs5RxWs+4F8utEaZgUqDNu+e0qep5b1UqVWzKTK/7P8OT1XWy7KFe5NtBz7R9wCjLsF1W2SUcP/TClIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoo\\Desktop\\programming\\C#\\연습장\\KreamCrawling\\KreamCrawling\\KreamCrawling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoo\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
