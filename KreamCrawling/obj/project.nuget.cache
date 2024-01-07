@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "APnlI+wjtSk/IVqrdVwloo1JEOf0K1tNngdbS0EM4O9XFDO/wuM1lSY9sZAZgvIF+WMjBxO/7NTsFua+AY5c6w==",
+  "dgSpecHash": "OTFSg0zaLdRBAHnPhlVCqWNmgmuE1PmXdSxBs5Z9rm35VL/5L2pNzvqhxrtrA3eftI1U5sKaEvsTB2zEa8FOHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hoo\\Desktop\\programming\\C#\\연습장\\KreamCrawling\\KreamCrawling\\KreamCrawling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoo\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
-    "C:\\Users\\hoo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\hoo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hoo\\.nuget\\packages\\selenium.support\\4.16.2\\selenium.support.4.16.2.nupkg.sha512",
+    "C:\\Users\\hoo\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\hoo\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
   ],
   "logs": []
 }

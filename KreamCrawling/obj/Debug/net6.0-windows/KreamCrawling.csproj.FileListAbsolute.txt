@@ -18,3 +18,8 @@ C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\obj\De
 C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\obj\Debug\net6.0-windows\KreamCrawling.genruntimeconfig.cache
 C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\obj\Debug\net6.0-windows\ref\KreamCrawling.dll
 C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\hoo\Desktop\programming\C#\연습장\KreamCrawling\KreamCrawling\bin\Debug\net6.0-windows\WebDriver.dll
